@@ -1,7 +1,7 @@
 Here’s a structured table listing **Frontend Mentor challenges** along with their difficulty levels and links:
 
-| Challenge Name | Difficulty | Category | Skills Practiced | Estimated Time | Link |
-|---------------|------------|------|---------------|------------|------|
+| Challenge Name | Difficulty | Category | Technologies Used | Link |
+|---------------|------------|------|---------------|------|
 | Recipe Page | Easy | [Link](https://www.frontendmentor.io/challenges?difficulty=1) |
 | Social Links Profile | Easy | [Link](https://www.frontendmentor.io/challenges?difficulty=1) |
 | Blog Preview Card | Easy | [Link](https://www.frontendmentor.io/challenges?difficulty=1) |
