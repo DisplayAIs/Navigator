@@ -3,7 +3,7 @@ import { Figtree } from "next/font/google";
 
 const figtree = Figtree({
   subsets: ["latin"],
-  weights: ["500", "800"],
+  weight: ["500", "800"],
 });
 
 export default function Home() {
